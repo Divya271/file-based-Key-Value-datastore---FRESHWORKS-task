@@ -18,7 +18,7 @@ More than one client process cannot be allowed to use the same file as a data st
 A client process is allowed to access the data store using multiple threads, if it desires to. The data store must therefore be thread-safe.
 The client will bear as little memory costs as possible to use this data store, while deriving maximum performance with respect to response times for accessing the data store.
 
-# Steps to run Clinet file
+# Steps to run Client.java file
   > Download json-simple-1.1.1.jar  
   
   > Create JSON folder in C drive
