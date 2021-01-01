@@ -20,11 +20,17 @@ The client will bear as little memory costs as possible to use this data store, 
 
 # Steps to run Clinet file
   > Download json-simple-1.1.1.jar  
+  
   > Create JSON folder in C drive
+  
   > copy json-simple-1.1.1.jar in JSON folder
+  
   > Run following commands in command line
+  
   > set CLASSPATH=%CLASSPATH%;C:\JSON\json-simple-1.1.1.jar;.;
+  
   > javac Client.java
+  
   >java Client
 # Output
   > data.json file will be created
